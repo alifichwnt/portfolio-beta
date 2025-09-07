@@ -11,7 +11,7 @@ export default {
           status: 'My personal website, I created this website to display my profile, skills and projects.',
           tech: 'VueJS 3, Tailwind',
           github: 'https://github.com/alifichwnt',
-          demo: 'null'
+          demo: '#'
         },
         {
           id: 2,
@@ -142,4 +142,5 @@ svg:hover {
 .fade-zoom-in {
   animation: fadeZoomIn 1s ease-in-out;
 }
+
 </style>
